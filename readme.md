@@ -1,6 +1,20 @@
 Markus Kunej
 this repo is a clone of https://github.com/nelaturuk/education_pathways
 
+# Activity 1
+![image](images/lab5-github-repo.png)
+
+# Activity 2-5
+
+## Home Page
+![images](images/lab5-home.png)
+
+## Search Form
+![images](images/lab5-form.png)
+
+## Results Table
+![image](images/lab5-results-table.png)
+
 # CARTE Education Pathways
 
 ## Description
