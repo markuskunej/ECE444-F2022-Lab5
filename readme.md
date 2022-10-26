@@ -15,6 +15,28 @@ this repo is a clone of https://github.com/nelaturuk/education_pathways
 ## Results Table
 ![image](images/lab5-results-table.png)
 
+# Activity 6
+
+## User Story 1
+As an upper year student, Bob needs to choose several technical electives, and wants to see whether they will conflict with each other. To satisfy this, each course page should have a schedule showing the available lecture, lab, and tutorial times.
+
+### Front-End Prototype (this is the one I did)
+![images](images/lab5-timetable.png)
+
+## User Story 2
+As a new student, Amy wants to quickly see the past student rating of a course. To satisfy this, each course should have a field where users can see past student ratings of the courses. 
+
+### Front-End Prototype
+![images](images/lab5-ratings.png)
+
+## User Story 3
+As a second-year international student, Justin wanted to compare similar courses to decide which one fits his interests more. To satisfy this, the system should have an option for users to see a side-by-side view of course information of two different courses, so they can be easily compared by the user.
+
+### Front-End Prototype
+![images](images/lab5-compare.png)
+
+
+
 # CARTE Education Pathways
 
 ## Description
