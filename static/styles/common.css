@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana;
+    padding: 40px;
+    background-color: #C7F3FF;
+}
+h1, h3 {
+    color: #00204e;
+}
+.common-page-heading-container {
+    text-align: center;
+    margin: 20px auto;
+}
+select.common-page-form, input.common-page-form {
+    background-color: beige;
+    border-radius: 5px;
+    border-color: transparent;
+}
+.common-page-form-field {
+    margin: 2px auto;
+}
+.common-page-form {
+    border: 2px solid #00204e;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px auto;
+}
+.common-page-submit-btn {
+    margin-top: 20px;
+}
